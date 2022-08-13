@@ -1,0 +1,16 @@
+# anushtoney.github.io
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset = "utf-8">
+        <title>Bouncing DVD Logo Animation Effects</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <marquee behavior ="alternate" scrollamount="30">
+            <marquee behavior="alternate" scrollamount="30" direction="down">
+                <img src="dvd.png"
+            </marquee>
+        </marquee>
+    </body>
+</html>
